@@ -30,7 +30,7 @@
 
 | Project | Description | Live |
 |--------|-------------|------|
-| [Trakio](https://github.com/Varshil13/Job-Application-Tracker) | AI-powered job tracker — LLM extraction, resume scoring, 5-stage lifecycle | [trakio-v1.vercel.app](https://trakio-v1.vercel.app) |
+| [Trakio](https://github.com/Varshil13/Job-Application-Tracker) | AI-powered job tracker — LLM extraction, resume scoring, 5-stage lifecycle | [trakio-v1.vercel.app](trakio.vshil.me) |
 | [LEAP](https://github.com/Varshil13/Leap-Custom-AI-Course-Maker-) | Generates personalized courses from YouTube using Gemini AI + Next.js 14 | [leap-v1.vercel.app](https://leap-v1.vercel.app) |
 | [CodeBuddy](https://github.com/Varshil13/CodeBuddy) | AI coding quiz generator — topic-specific, OpenAI-powered, with user history | [Live](https://code-buddy-frontend.onrender.com) |
 
